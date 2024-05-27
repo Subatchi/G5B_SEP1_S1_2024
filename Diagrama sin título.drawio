@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T14:42:29.898Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="r4EOMj51600l8fukCEk2" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T14:43:23.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0" etag="7EEoo5oj8jigQIxvv0CG" version="24.4.8" type="github">
   <diagram name="Page-1" id="16e2658f-23c8-b752-8be9-c03fbebb8bbe">
-    <mxGraphModel dx="1682" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="961" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,6 +45,9 @@
             <mxPoint x="400" y="520" as="sourcePoint" />
             <mxPoint x="400.12" y="490" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1f1E51N81fm3oBkGHURN-12" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;" vertex="1" parent="1">
+          <mxGeometry x="380" y="61.91" width="40" height="36.18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
