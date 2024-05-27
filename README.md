@@ -1,2 +1,4 @@
 # Tarea_SEPI_1
-Tarea SEP 1 owo
+Integrantes:
+-Nicolás Gonzalez Pizarro
+-Iván Tapia Cuevas
